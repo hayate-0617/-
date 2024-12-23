@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>戦後東京都の人口変化</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .profile {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>戦後東京都の人口変化</h1>
+
+    <h2>第1章：戦後の東京都の人口推移</h2>
+    <p>
+        戦後の東京都は経済復興とともに急激な人口増加を経験しました。高度経済成長期には地方からの移住が増加し、
+        東京都は全国的な経済の中心地としての役割を果たしました。しかし、バブル崩壊以降は人口増加のペースが鈍化し、
+        少子高齢化の影響も見られるようになりました。
+    </p>
+    <img src="your_graph_image_url.png" alt="東京都の人口推移グラフ">
+
+    <h2>第2章：2008年以降の人口増加と移住相談件数の関係</h2>
+    <p>
+        2008年のリーマンショック以降、地方から都市部への人口移動が一時的に減少しましたが、経済回復に伴い再び増加傾向を示しています。
+        同時に、移住相談件数も増加しており、地方移住への関心が高まっていることが分かります。このことから、東京都の人口増加は
+        移住相談件数の増加と一定の関連があると考えられます。
+    </p>
+
+    <h2>第3章：私の移住に関する考え</h2>
+    <p>
+        私は神奈川県出身です。東京での生活は便利ですが、将来的には自然豊かな場所での生活にも興味があります。
+        特に、Iターンで地方都市に移住し、地域のコミュニティに貢献したいと考えています。地方での仕事や子育て支援の充実が
+        進むことで、より多くの人が移住を検討するのではないでしょうか。
+    </p>
+    <img src="image_kawaguchiko.png" alt="富士山と河口湖の画像">
+
+    <h2>著者紹介</h2>
+    <div class="profile">
+        <p>氏名：山田太郎</p>
+        <p>自己紹介：明治大学経済学部在学中。都市と地方の関係性に興味があります。</p>
+        <p>架空のオフィス住所：〒100-0001 東京都千代田区丸の内1-1-1</p>
+        <a href="https://www.google.com/maps/place/丸の内1-1-1" target="_blank">Google Mapで住所を見る</a>
+    </div>
+
+    <footer>
+        <p>関連リンク：<a href="https://www.stat.go.jp/" target="_blank">総務省統計局</a></p>
+    </footer>
+</body>
+</html>
